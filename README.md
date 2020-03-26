@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>חוג כדורגל בחוויה שונה</title>
-    </head>
+    <head>
 <p style="text-align: right;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/picserver5/crop_images/2020/02/02/9758842/9758842_0_0_1300_731_x-large.jpg" alt="" width="408" height="229" /><img /></strong></p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: center;"><strong>נגפים</strong></p>
