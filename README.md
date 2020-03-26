@@ -1,12 +1,15 @@
-
+<!doctype html>
 <html lang="en">
   <head>
-    <title>חוג כדורגל בחוויה שונה</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>חוג כדורגל בחוויה שונה</title>
-    </head>
+    <title>חוג כדורגל בחוויה שונה</title>
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Bellefair&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+  </head>
 <p style="text-align: right;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://besttv232-ynet-images1-prod.cdn.it.best-tv.com/picserver5/crop_images/2020/02/02/9758842/9758842_0_0_1300_731_x-large.jpg" alt="" width="408" height="229" /><img /></strong></p>
 <p style="text-align: right;">&nbsp;</p>
 <p style="text-align: center;"><strong>נגפים</strong></p>
@@ -35,5 +38,6 @@
 <p style="text-align: right;"><strong>&nbsp;</strong></p>
 <p style="text-align: right;"><strong>&nbsp;</strong></p>
 <p style="text-align: right;"><strong>&nbsp;</strong></p>
-<p style="text-align: right;"><strong>&nbsp;</strong></p></html>
+<p style="text-align: right;"><strong>&nbsp;</strong></p>
+</html>
 
